@@ -20,3 +20,5 @@ To check your changes, on vscode, just do right-click on index.html, and select 
 Anything you need, you can speak with your colleagues from freeCodeCamp Lisbon on [facebook group](https://www.facebook.com/groups/free.code.camp.lisbon/) or on [meetup group](https://www.meetup.com/pt-BR/freeCodeCamp-Lisbon/)
 
 Please share with your teammates our events, check all of them on your [website](http://www.freecodecamplisbon.org) dont by campers with love.
+
+Presentation Slides: [https://docs.google.com/presentation/d/1AcW5VKzfVQ7ukyluh6AWBl8Zet0_hVwlOIDpMD-Ro5I/edit#slide=id.g58e625f2be_0_31](https://docs.google.com/presentation/d/1AcW5VKzfVQ7ukyluh6AWBl8Zet0_hVwlOIDpMD-Ro5I/edit#slide=id.g58e625f2be_0_31)
